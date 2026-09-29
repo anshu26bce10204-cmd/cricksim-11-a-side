@@ -1,17 +1,17 @@
 # Problem Statement
 
-Beginners learning Python and cyber security fundamentals often lack simple,
-hands-on projects that combine control flow, state management, and input
-validation in an engaging way. There is no lightweight, offline, console-based
+basic learning of Python programme and cyber security fundamentals simply lacks,
+hands on project that combine the control flow, statement management, and input
+valid in an engaging way. There is no lightweight, offline, console-based
 tool that lets two full cricket teams play out a limited-overs match ball by
 ball, entirely driven by user input, while correctly tracking runs, wickets,
-extras, strike rotation, and the final result.
+extras run , change of strike, and the final result of match.
 
-**CrickSim** solves this by simulating a realistic 11-a-side, 5-overs-per-side
+**CrickSimulator** solves this by realistic problem in which 11 players in each team, 5 over per team 
 cricket match in Python. Every ball's outcome (runs, wicket, wide, no ball) is
-entered by the user, and the program handles all the scoring logic, batsman
-rotation, wicket-fall handling, scorecards, and the final result — including
-letting the user start a brand-new match afterwards.
+entered by the user,programme control the scoring logic,change of strike by batsman,
+including wicket out, final result handling 
+user start a new match after the inning 
 
 ## Scope of the Project
 
